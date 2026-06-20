@@ -1,8 +1,0 @@
-{
-  "site": "国产电视剧视频免费在线观看·最新高清剧集合集-国产好剧",
-  "logo": "国产好剧",
-  "movie_count": 2000,
-  "category_count": 10,
-  "cover_rule": "第 N 条影片引用 ./X.jpg，X = ((N - 1) % 150) + 1；ZIP 中不包含 JPG 文件。",
-  "detail_files": "movie-1.html 到 movie-2000.html"
-}
