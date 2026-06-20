@@ -1,0 +1,23 @@
+{
+  "movie_count": 2000,
+  "html_count": 2014,
+  "detail_count": 2000,
+  "detail_count_ok": true,
+  "category_card_total": 2000,
+  "category_coverage_ok": true,
+  "baidu_missing": [],
+  "jpg_files_in_output": [],
+  "last_movie_cover": "./50.jpg",
+  "category_files": [
+    "category-guochanju.html",
+    "category-dushi-qinggan.html",
+    "category-xuanyi-fanzui.html",
+    "category-guzhuang-qihuan.html",
+    "category-jiating-xianshi.html",
+    "category-xiju-zhiyu.html",
+    "category-dongzuo-maoxian.html",
+    "category-kongbu-jingsong.html",
+    "category-kehuan-donghua.html",
+    "category-haiwai-jingxuan.html"
+  ]
+}
